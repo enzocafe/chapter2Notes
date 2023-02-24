@@ -9,7 +9,7 @@
 //     console.log(i);
 // }
 
-// 1 to 15 - 9#
+// 1 to 15 - 8#
 // for (let i=1; i <=15; i++ ) {
 //     console.log(i);
 // }
@@ -24,15 +24,25 @@
 //     console.log(i);
 // }
 
+// Happy Holidays - 10#
 // “Happy Holidays!” 12 times - 10#
 // for (let i=0; i <=12; i++ ) {
 //     console.log("Happy Holidays!");
 // }
 
 
+// Multiples of 5 - 4#
+// for (let i = 0; i <=700; i++){
+//     if (i % 5 == 0){
+//         console.log(i);
+//     }
+// }
 
-for (let i = 0; i <=700; i++){
-    if (i % 5 == 0){
-        console.log(i);
-    }
-}
+// 350 to 1000, multiples by 10 - 5#
+// for (let i = 350; i <= 1000; i++){
+//     if (i % 10 == 0){
+//         console.log(i);
+//     }
+// }
+
+
