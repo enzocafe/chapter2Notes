@@ -1,7 +1,7 @@
 const readline = require('readline-sync');
 
-let question = readline.question("Wanna hear a joke? (YES/NO):");
-if(answer -- "YES"){
+let answer = readline.question("Wanna hear a joke? (YES/NO):");
+if(answer == "YES"){
     console.log('YAY!! WOOP WOOP, what do you call a group of blueberries playing instruments?? ... A JAM SESSION ^^');
 } else{
     console.log("oh.. ok.. my badd");
